@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 👋 Hey there, my name is Eric!
 - 🎓 I am a young aspiring software developer who is currently pursuing a computer science degree.
